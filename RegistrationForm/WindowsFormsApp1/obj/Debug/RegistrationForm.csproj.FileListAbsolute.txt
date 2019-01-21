@@ -1,0 +1,66 @@
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrationForm.resources
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BIKOLG\source\repos\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeGrid.resources
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeGrid.resources
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrationForm.resources
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Desktop\7 lesson\updatedRegform\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeGrid.resources
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrationForm.resources
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Google Drive\C#1\Lesson_7\Code Examples\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeGrid.resources
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrationForm.resources
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Desktop\8_lesson_seb\DB_reg_form\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeGrid.resources
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrationForm.resources
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Olga\Desktop\8_lesson_seb\Homework\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeGrid.resources
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistrationForm.resources
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\s84671\Desktop\SEB-20190103T120940Z-001\SEB\9_Lesson\Homework\RegistrationForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
