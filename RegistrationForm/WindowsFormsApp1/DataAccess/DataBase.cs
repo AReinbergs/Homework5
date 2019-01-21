@@ -143,8 +143,8 @@ namespace WindowsFormsApp1.DataAccess
 
         private static string GetConnectionString()
         {
-            //return "Integrated Security=SSPI;Initial Catalog=test;Data Source=localhost\\SQLEXPRESS;";
-            return "Server=WSP2971B; Database=OrsXml; Trusted_Connection=True;";  
+            return "Integrated Security=SSPI;Initial Catalog=test;Data Source=localhost\\SQLEXPRESS;";
+             
 
         }
     }
